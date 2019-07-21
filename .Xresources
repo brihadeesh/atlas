@@ -1,0 +1,77 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+! special
+*.foreground:   #eeeeee
+*.background:   #282828
+*.cursorColor:  #eeeeee
+
+! black
+*.color0:       #282828
+*.color8:       #666666
+
+! red
+*.color1:       #eeeeee
+*.color9:       #eeeeee
+
+! green
+*.color2:       #eeeeee
+*.color10:      #eeeeee
+
+! yellow
+*.color3:       #ffffff
+*.color11:      #eeeeee
+
+! blue
+*.color4:       #eeeeee
+*.color12:      #666666
+
+! magenta
+*.color5:       #eeeeee
+*.color13:      #eeeeee
+
+! cyan
+*.color6:       #eeeeee
+*.color14:      #eeeeee
+
+! white
+*.color7:       #666666
+*.color15:      #ffffff
+
+
+Xcursor.theme: BMZ
+Xcursor.size: 16
+
+! xterm
+xterm*font: ProFontIIx Nerd Font Mono 7
+xterm*faceName: ProFontIIx Nerd Font Mono:size=7:antialias=true
+xterm*loginShell: true
+xterm*vt100*geometry: 90x34
+xterm*saveLines: 2000
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-256color
+xterm*eightBitInput: false
+
+! UXTerm
+UXTerm*termName: xterm-256color
+UXTerm*cursorColor: white
+UXTerm*VT100.geometry: 90x30
+UXTerm*font: DejaVu Sans Mono
+UXTerm*faceSize: 10
+UXTerm*dynamicColors: true
+UXTerm*utf8: 2
+UXTerm*eightBitInput: true
+UXTerm*saveLines: 10000
+UXTerm*scrollKey: true
+UXTerm*scrollTtyOutput: false
+UXTerm*scrollBar: false
+UXTerm*rightScrollBar: false
+UXTerm*jumpScroll: true
+UXTerm*multiScroll: true
+UXTerm*toolBar: false
+
